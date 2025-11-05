@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75377439457",
+    "project_id": "money-store-2ee01",
+    "storage_bucket": "money-store-2ee01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75377439457:android:0e1add9145455abdc43da0",
+        "android_client_info": {
+          "package_name": "com.managestore.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDgDzkZIAK4EFEp7vh0yIASZ0XzHaNeKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
