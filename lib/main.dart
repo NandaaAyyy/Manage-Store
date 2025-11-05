@@ -9,10 +9,10 @@ void main() {
 
 class MyApp extends StatefulWidget {
   @override
-  State<MyApp> createState() => _ManageStoreState();
+  State<MyApp> createState() => _MyAppState();
 }
 
-class _ManageStoreState extends State<MyApp> {
+class _MyAppState extends State<MyApp> {
   int _selectedIndex = 0;
 
   final List<Widget> _pages = [
